@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @T-Mitsuya
+- 👀 I’m interested in networking and cyber security
+- 🌱 I’m currently learning C
+- 📫 How to reach me? Insta : "othmane farissi"
