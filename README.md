@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Othmane</h1>
-<h3 align="center">A passionate CS student from Morocco</h3>
+<h1 align="center">I'm Othmane</h1>
+<h3 align="center">1337 student</h3>
 
 - 🔭 I’m currently working on **minishell**
 
 - 🌱 I’m currently learning **C++**
-
-- 👯 I’m looking to collaborate on **linkkader**
 
 - 📫 How to reach me **LinkedIn: Othmane Farissi**
 
