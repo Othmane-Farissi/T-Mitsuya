@@ -1,7 +1,7 @@
 <h1 align="center">I'm Othmane</h1>
 <h3 align="center">1337 student</h3>
 
-- 🔭 I’m currently working on **minishell**
+- 🔭 I’m currently working on **CPP MODULE**
 
 - 🌱 I’m currently learning **C++**
 
