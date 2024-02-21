@@ -1,9 +1,9 @@
 <h1 align="center">I'm Othmane</h1>
 <h3 align="center">1337 student</h3>
 
-- 🔭 I’m currently working on **CPP MODULE**
+- 🔭 I’m currently seeking a **END OF COMMON CORE INTERNSHIP**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 📫 How to reach me **LinkedIn: Othmane Farissi**
 
